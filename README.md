@@ -2,7 +2,7 @@
 
 **Building a Sustainable Future, One Rounded-Up Purchase at a Time**
 
-Click [here](https://tranquil-chimera-dec5a0.netlify.app/) to view the live site deployed with Netlify (front-end) and Render (back-end)
+Click [here](https://tranquil-chimera-dec5a0.netlify.app/) to view the live demo site using login details: `john.doe@email.com` & `fakepassword`, deployed with Netlify (front-end) and Render (back-end)
 
 Click [here](https://www.figma.com/proto/0RjM1GiPZ0zNG4QvFowbPQ/Round-Up-To-Net-Zero-(prototype)---Kimberly-D.?type=design&node-id=17-186&t=QxbcOKGL35xFT1y3-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=17%3A186) to view the Figma prototype
 
